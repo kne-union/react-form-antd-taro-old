@@ -1,7 +1,6 @@
 {
   "name": "@kne/react-form-antd-taro",
   "version": "0.1.0-apha.0",
-  "private": true,
   "description": "react-form在antd-taro中的绑定",
   "templateInfo": {
     "name": "default",
