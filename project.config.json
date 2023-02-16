@@ -30,5 +30,6 @@
   "packOptions": {
     "ignore": [],
     "include": []
-  }
+  },
+  "projectname": "react-form-antd-taro"
 }
