@@ -8,3 +8,4 @@ node_modules/
 .idea
 package-lock.json
 project.private.config.json
+pnpm-lock.yaml

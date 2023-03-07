@@ -1,5 +1,3 @@
-import Form from './Form';
-
 import CheckList$ from './fields/CheckList';
 import Input$ from './fields/Input';
 import Picker$ from './fields/Picker';
@@ -8,7 +6,7 @@ import Slider$ from './fields/Slider';
 import Switch$ from './fields/Switch';
 import TextArea$ from './fields/TextArea';
 export * from './Form';
-export default Form;
+export {default as Form} from './Form';
 export {default as preset} from './preset';
 export {default as ResetButton} from './ResetButton';
 export {default as SubmitButton} from './SubmitButton';
