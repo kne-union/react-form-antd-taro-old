@@ -26,6 +26,9 @@ Picker.DatePicker = withDecoratorList(({render, placeholder, showPopup, value, f
     if (!value) {
       return '';
     }
+    if (value === 'sofar') {
+      return '至今';
+    }
     return dayjs(value).format(format);
   }, [value]);
   return render({
