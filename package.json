@@ -45,11 +45,11 @@
     "@tarojs/components": "*",
     "@tarojs/taro": "*",
     "@tarojsx/library": "*",
-    "react": "*"
+    "react": "*",
+    "@kne/react-fetch": "*"
   },
   "dependencies": {
     "@kne/antd-taro": "^0.1.1-alpha.12",
-    "@kne/react-fetch": "^1.3.0",
     "@kne/use-event": "^0.1.3",
     "@tarojs/mini-runner": "3.5.12",
     "classnames": "^2.3.2",
